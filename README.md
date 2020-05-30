@@ -24,7 +24,7 @@ citation ~pending: <br/>
 ## Overview for items added pre-review that are not organized into final format: <br/>
 `submission/` = remaining items produced for original submission to *Cancer Prevention Research* <br/>
 
-## each of the following will be added after article is published:
+## Each of the following will be added after article is published:
 `main/` = pdfs for main text figures <br/>
 `sampledata_TF.txt` = sample data file <br/>
 `sra/` = items relevant for submission to the NCBI Sequence Read Archive ([BioProject Accession PRJNA630498](https://github.com/kdprkr/TransFaunation)) <br/>
