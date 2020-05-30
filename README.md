@@ -12,7 +12,6 @@ citation ~pending: <br/>
 **Abstract ~pending:** <br/>
 
 ## Overview for items added pre-review that are organized into final format: <br/>
-`class/` = contains reference sequences and trained taxonomy classifiers (see: `Script_01.R` section *Q - STEP 5*) <br/>
 `dada2/` = contains outputs for dada2 feature table construction (see: `Script_01.R` section *Q - STEP 3* and *Q - STEP 4*) <br/>
 `dvrs/` = contains outputs for alpha diversity analysis (see: `Script_01.R` section *Q - STEP 8*) <br/>
 `reads/` = contains raw and trimmed sequence reads (see: `Script_01.R` sections *Q - STEP 1* and *Q - STEP 2*) <br/>
@@ -25,6 +24,7 @@ citation ~pending: <br/>
 `submission/` = remaining items produced for original submission to *Cancer Prevention Research* <br/>
 
 ## Each of the following will be added after article is published:
+`class/` = contains reference sequences and trained taxonomy classifiers (see: `Script_01.R` section *Q - STEP 5*) <br/>
 `main/` = pdfs for main text figures <br/>
 `sampledata_TF.txt` = sample data file <br/>
 `sra/` = items relevant for submission to the NCBI Sequence Read Archive ([BioProject Accession PRJNA630498](https://github.com/kdprkr/TransFaunation)) <br/>
