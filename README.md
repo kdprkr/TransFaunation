@@ -5,8 +5,7 @@ Note: "~pending" indicates information will be added after review and acceptance
 ## Article Information ~pending
 Parker et al. 2020 <br/>
 Journal: *Cancer Prevention Research* <br/>
-[pubmed link ~pending](https://github.com/kdprkr/TransFaunation) <br/>
-[journal link ~pending](https://github.com/kdprkr/TransFaunation) <br/>
+[doi ~pending](https://github.com/kdprkr/TransFaunation) and [PMID ~pending](https://github.com/kdprkr/TransFaunation) <br/>
 citation ~pending: <br/>
 
 **Abstract ~pending:** <br/>
