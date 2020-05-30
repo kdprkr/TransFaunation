@@ -2,7 +2,7 @@
 This repository houses the complete materials for reproducing microbiota-related results published in: <br/>
 Note: "~pending" indicates information will be added after review and acceptance for publication.
 
-## Article Title ~pending
+## Article Information ~pending
 Parker et al. 2020 <br/>
 Journal: *Cancer Prevention Research* <br/>
 [pubmed link ~pending](https://github.com/kdprkr/TransFaunation) <br/>
