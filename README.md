@@ -31,6 +31,8 @@ citation ~pending: <br/>
 `supplement/` = includes figures/tables/files for supplementary materials <br/>
 `vault/` = central storage for items produced in each of the `.R` scripts <br/>
 
+Due to file size restrictions, a few items cannot be uploaded into their respective locations above. To overcome this limitation, the master directory with complete materials will be compressed and uploaded to Google Drive. That directory will then be available for download by clicking "Download anyway" after visiting the following [link ~pending](https://github.com/kdprkr/TransFaunation). To setup proper file paths, download, uncompress, and move `TransFaunation/` onto the `Desktop/`. <br/>
+
 If any files cannot be located or if any links are broken, **please open an issue**. <br/>
 
 If you have any questions regarding any items here, **please contact me via the email listed on my profile**. <br/>
