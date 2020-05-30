@@ -1,4 +1,4 @@
-## TransFaunation
+# TransFaunation/
 This repository houses the complete materials for reproducing microbiota-related results published in: <br/>
 Note: "~pending" indicates information will be added after review and acceptance for publication.
 
