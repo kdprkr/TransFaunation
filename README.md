@@ -23,7 +23,7 @@ citation ~ pending: <br/>
 `tree/` = contains outputs for phylogenetic tree created in QIIME2 (see: `Script_01.R` section `Q - STEP 7`) <br/>
 
 ## Overview for items added pre-review that are not organized into final format: <br/>
-`submission/` = items produced for original submission (pre-review) to *Cancer Prevention Research* <br/>
+`submission/` = items produced for original submission to *Cancer Prevention Research* <br/>
 
 ## each of the following will be added after article is published:
 `main/` = pdfs for main text figures <br/>
