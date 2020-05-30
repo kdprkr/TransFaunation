@@ -11,7 +11,7 @@ citation ~ pending: <br/>
 
 **Abstract ~pending:** <br/>
 
-## Overview for items added pre-review that are organized into final format: <br/>:
+## Overview for items added pre-review that are organized into final format: <br/>
 `class/` = contains reference sequences and trained taxonomy classifiers (see: `Script_01.R` section `Q - STEP 5`) <br/>
 `dada2/` = contains outputs for dada2 feature table construction (see: `Script_01.R` section `Q - STEP 3` and `Q - STEP 4`) <br/>
 `dvrs/` = contains outputs for alpha diversity analysis (see: `Script_01.R` section `Q - STEP 8`) <br/>
