@@ -1,6 +1,6 @@
 # TransFaunation/
 This repository houses the complete materials for reproducing microbiota-related results published in: <br/>
-Note: "~pending" indicates information will be added after review and acceptance for publication.
+Note: "~pending" indicates information needs to be added.
 
 ## Article Information ~pending
 Parker et al. 2020 <br/>
